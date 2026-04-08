@@ -1,12 +1,13 @@
 <!-- Web Dev Banner -->
 ![MasterHead](https://user-images.githubusercontent.com/80781196/190216139-7697aa5a-c9a0-4bd6-80bf-3aca76a2e1c8.gif)
 
-<!-- Your Info. -->
+<!-- 🔷 Name & Title -->
 <h1 align="center">Hi 👋, I'm Rasel Mia</h1>
-<h3 align="center">A passionate Web Developer</h3>
+<h3 align="center">🚀 Frontend Developer | React • Next.js • Tailwind</h3>
 
-<!-- Programmer GIF -->
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+## 👨‍💻 About Me
+
+I am a passionate frontend developer who loves building modern, responsive, and user-friendly web applications.
 
 - 🌱 I’m currently learning **Next.Js**
 
@@ -16,13 +17,55 @@
 
 - ⚡ Fun fact **I am Funny**
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/raselmahmud2k2) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/raselmia2k4) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:j.raselmia2k4@gmail.com) 
+---
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=Frontend+Developer+🚀;React+Specialist+⚛️;Next.js+Learner+🔥;Always+Building+Cool+Projects" />
+</p>
+
+---
+
+## 🚀 Current Activities
+
+- 📚 Learning advanced React & Next.js  
+- 🧠 Improving problem-solving skills  
 
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## 🛠️ Tech Stack
 
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,nodejs,express,mongodb,firebase,git,github,vscode&perline=6" />
+</p>
+
+
+
+## 🌐 Connect With Me
+
+<p align="center">
+<a href="https://www.linkedin.com/in/raselmia2k4"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="https://github.com/AbuuRasel"><img src="https://skillicons.dev/icons?i=github" /></a>
+</p>
+
+
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AbuuRasel&theme=tokyonight&hide_border=true" />
+</p>
+
+
+
+## 🏆 Highlight Project
+
+### 🌐 Digitool Web App
+- 🔗 Live: https://digitool-project-1.netlify.app/  
+- ⚙️ Stack: React, Tailwind CSS, Firebase  
+- 📖 A modern digital tools web app with useful utilities  
+
+---
+
+<!-- 🔻 Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
+</p>
