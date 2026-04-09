@@ -20,7 +20,7 @@ I am a passionate frontend developer who loves building modern, responsive, and 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=Frontend+Developer+🚀;React+Specialist+⚛️;Next.js+Learner+🔥;Always+Building+Cool+Projects" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=Hi+👋,+I'm+Rasel+Mia;Frontend+Developer+🚀;React+Specialist+⚛️;Next.js+Learner+🔥;Always+Building+Cool+Projects;📫+reach+me+j.raselmia2k4@gmail.com" />
 </p>
 
 ---
@@ -34,7 +34,7 @@ I am a passionate frontend developer who loves building modern, responsive, and 
 ## 🛠️ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,nodejs,express,mongodb,firebase,git,github,vscode&perline=6" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,netlify,vercel,git,github,vscode&perline=20" />
 </p>
 
 
@@ -60,7 +60,7 @@ I am a passionate frontend developer who loves building modern, responsive, and 
 
 ### 🌐 Digitool Web App
 - 🔗 Live: https://digitool-project-1.netlify.app/  
-- ⚙️ Stack: React, Tailwind CSS, Firebase  
+- ⚙️ Stack: React, Tailwind CSS, Netlify  
 - 📖 A modern digital tools web app with useful utilities  
 
 ---
